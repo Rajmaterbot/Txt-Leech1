@@ -8,7 +8,7 @@
     "repository": "https://github.com/imacekun/pyrotxt",
     "buildpacks":[
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+            "url": "https://github.com/Dke76/Txt-Leech1"
         },
         {
             "url": "https://github.com/amivin/aria2-heroku.git"
