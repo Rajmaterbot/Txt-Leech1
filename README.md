@@ -5,6 +5,6 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?templatehttps://github.com/Abhaybaby/Txt-Leech=">
+<a href="https://heroku.com/deploy?templatehttps://github.com/Rajmaterbot/Txt-Leech=">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
